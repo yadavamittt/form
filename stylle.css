@@ -1,0 +1,42 @@
+body{
+
+    
+    margin: 0%;
+    text-align: center;
+    
+
+}
+h1{
+
+    margin: 0% auto;
+    padding: 10px;
+    font-size: 40px;
+    font-family: cursive;
+   
+}
+.bottom{
+    position: absolute;
+}
+.top{
+    position: relative;
+    left: 7cm;
+    margin-top: 2cm;
+}
+
+.cricket{
+    height: 200px;
+    width: 200px;
+}
+.top-container{
+    background-color: azure;
+}
+h2{
+    color:#66BFBF;;
+}
+h3{
+    color:#66BFBF;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 1cm 0cm 2cm;
+}
